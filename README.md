@@ -1,7 +1,7 @@
 # Motion Dreamer: Realizing Physically Coherent Video Generation through Scene-Aware Motion Reasoning
 
 
-[![page](https://img.shields.io/badge/page-visit-blue?style=for-the-badge)](https://yuevii.github.io/motion-dreamer/)
+[![page](https://img.shields.io/badge/page-visit-blue?style=for-the-badge)](https://envision-research.github.io/MotionDreamer/)
 [![paper](https://img.shields.io/badge/paper-view-blue?style=for-the-badge)](https://arxiv.org/abs/2412.00547)
 
 
