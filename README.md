@@ -16,7 +16,7 @@
 We introduce Motion Dreamer, a two-stage video generation framework that decouples motion reasoning from high-fidelity video synthesis, addressing the challenge of producing physically coherent videos.
 
 ## Overview
-![overview](resouces/overview.png "Hover Title")
+![overview](resources/overview.png "Hover Title")
 
 
 ## TODO
